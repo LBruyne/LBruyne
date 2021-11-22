@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=mayandev&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Hinsliu&theme=dark" />
 </div>
 <div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=HinsLiu&theme=minimal" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=Hinsliu&theme=minimal" />
 </div>
