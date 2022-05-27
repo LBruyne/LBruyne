@@ -2,9 +2,9 @@
 
 I will be studying for the master's degree in Zhejiang University, China PR.
 
-I am ethusiastic in Blockchain, Distributed System and other system designing and developing fields.
+I am a full-stack engineer, being enthusiastic about Blockchain, Distributed System and other system designing and developing fields.
 
-Mainly used programming language of me are: Golang, Java and other contract languages. I'm improving my Rust ability as well.
+Mainly used programming language of me are: Golang, Java and other smart contract languages.
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=LBruyne" />
