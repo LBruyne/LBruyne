@@ -1,7 +1,8 @@
 # Hi there, I'm Hins! 👋
 
 ## 🚀 About Me
-I am a dedicated Master's student in Computer Science at Zhejiang University, China PR, with a deep passion for exploring new technologies. My primary focus is on developing innovative projects in the realms of cryptography and blockchain applications. I firmly believe in the potential of the Web3 world and am incredibly enthusiastic about contributing to its growth and advancement.
+- I am a dedicated Master's student in Computer Science at Zhejiang University (ZJU), China PR, with a deep passion for exploring new technologies. My primary focus is on developing innovative projects in the realms of cryptography and blockchain applications. I firmly believe in the potential of the Web3 world and am incredibly enthusiastic about contributing to its growth and advancement.
+- I am a co-founder of MatchUs, a WeChat mini-program designed for ZJU students to make friends online. This platform has successfully served 20,000+ per students. If you are a ZJU student, you must have heard of it.
 
 🌱 **I’m currently learning:**
 - Advanced techniques in Cryptography, which are pivotal for enhancing privacy and security in blockchain and Web3 technologies. This area of study is crucial for developing secure and efficient decentralized systems.
