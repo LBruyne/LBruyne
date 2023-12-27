@@ -1,31 +1,35 @@
-### Hi 👋
+# Hi there, I'm Hins! 👋
 
-I'm Hins Liu, a full-stack engineer from Zhejiang University, China PR.
+## 🚀 About Me
+I am a dedicated Master's student in Computer Science at Zhejiang University, China PR, with a deep passion for exploring new technologies. My primary focus is on developing innovative projects in the realms of cryptography and blockchain applications. I firmly believe in the potential of the Web3 world and am incredibly enthusiastic about contributing to its growth and advancement.
 
-I am a full-stack engineer, being enthusiastic about Blockchain, System design and Crypto.
+🌱 **I’m currently learning:**
+- Advanced techniques in Cryptography, which are pivotal for enhancing privacy and security in blockchain and Web3 technologies. This area of study is crucial for developing secure and efficient decentralized systems.
+- Specifically, I am focusing on Zero-Knowledge Proofs, exploring methods to accelerate their performance and practicality for real-world applications.
 
-### ✍️ Most Used Languages
+## 🛠 Skills
+- **Languages:** Solidity, Golang, Java, Python, JavaScript, TypeScript, Rust (learning~)
+- **Frameworks:** React for FE, and many BE frameworks
+- **Databases:** MongoDB, SQL, ...
+- **Tools:** Docker, Git, Jenkins, ...
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-2b5b83?style=flat&logo=typescript&logoColor=ffdf76) 
-![Java](https://img.shields.io/badge/-Java-2b5b83?style=flat&logo=intellij-idea&logoColor=ffdf76)
-![Golang](https://img.shields.io/badge/-Golang-2b5b83?style=flat&logo=go&logoColor=ffdf76)
-![Rust](https://img.shields.io/badge/-Rust-2b5b83?style=flat&logo=rust&logoColor=ffdf76)
-![Solidity](https://img.shields.io/badge/-Solidity-2b5b83?style=flat&logo=solidity&logoColor=ffdf76)
+## 📫 How to Reach Me
+- **Email:** [hinsliu@zju.edu.cn](mailto:hinsliu@zju.edu.cn)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LBruyne&layout=compact&hide=css,html,javascript)
+## ✨ Fun Fact
+- When I'm not immersed in the world of coding, you can always find me climbing mountains and hiking. I love capturing the beauty of nature through my lens, finding it both refreshing and inspiring.
+- I'm an avid soccer enthusiast, with over 10 years of loyalty to FC Barcelona 🟥🟦. Watching their games is always a highlight for me.
+- Music is another passion of mine, particularly Cantonese music. My favorite singer is [Hins Cheung](https://hinscheung.com/), whose artistry resonates with me deeply. In fact, it's from him that I chose my English name!
+- I am a big fan of Jin Yong's martial arts novels. I often find myself engrossed in his books and their screen adaptations.
+- As a junior Texas hold'em player, I am constantly learning and refining my strategies. This game of skill, psychology, and chance fascinates me, and I enjoy the challenge it presents.
 
-### 🛠 Tech Stack and Tools
-| End | Stack    
-| ---- | ---- |
-| ![blockchain](https://img.shields.io/badge/-Blockchain-black?style=flat) | ![Ethereum](https://img.shields.io/badge/-Ethereum-3a3a3a?style=flat&logo=ethereum) ![ICP](https://img.shields.io/badge/-DFinity-3a3a3a?style=flat&logo=internet-archive) |
-| ![frontend](https://img.shields.io/badge/-Frontend-black?style=flat) | ![React](https://img.shields.io/badge/-React-52BAD7?style=flat&logo=react&logoColor=white) ![antd](https://img.shields.io/badge/-Ant_Design-0170fe?style=flat&logo=ant-design) |
-| ![backend](https://img.shields.io/badge/-Backend-black?style=flat) | ![springboot](https://img.shields.io/badge/-Spring-white?style=flat&logo=spring) ![Golang](https://img.shields.io/badge/-gozero-2b5b83?style=flat&logo=go&logoColor=00ADD8) ![Django](https://img.shields.io/badge/-Django-2b5b83?style=flat&logo=django&logoColor=00ADD8) ![mysql](https://img.shields.io/badge/-mysql-white?style=flat&logo=mysql) ![mongoDB](https://img.shields.io/badge/-mongoDB-white?style=flat&logo=mongodb) |
-| ![IDE](https://img.shields.io/badge/-IDE-black?style=flat) | ![Intellij-IDEA](https://img.shields.io/badge/-IDEA-3a3a3a?style=flat&logo=intellij-idea) ![GoLand](https://img.shields.io/badge/-GoLand-3a3a3a?style=flat&logo=goland) ![WebStorm](https://img.shields.io/badge/-WebStorm-3a3a3a?style=flat&logo=webstorm) ![Visual Studio Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=Visual-Studio-Code) |
-| ![others](https://img.shields.io/badge/-Others-black?style=flat) | ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github) |
-### ❤️ Github Status
+## 📈 My GitHub Stats
+![Hins' github stats](https://github-readme-stats.vercel.app/api?username=LBruyne&show_icons=true)
 
-![Hins LIU's github stats](https://github-readme-stats.vercel.app/api?username=LBruyne&show_icons=true)
+---
 
-### 🫡 Github Contributions
-![Hins LIU's github contributions](https://activity-graph.herokuapp.com/graph?username=LBruyne&theme=minimal)
+If you share my interest in zero-knowledge proofs and other related fields, feel free to explore my repositories and get in touch with me! 
+I am always open to collaborating, sharing ideas, and learning from others in the community.
+
+
 
