@@ -1,18 +1,12 @@
 # Hi there, I'm Hins! 👋
 
 ## 🚀 About Me
-- I am a dedicated Master's student in Computer Science at Zhejiang University (ZJU), China PR, with a deep passion for exploring new technologies. My primary focus is on developing innovative projects in the realms of cryptography and blockchain applications. I firmly believe in the potential of the Web3 world and am incredibly enthusiastic about contributing to its growth and advancement.
+- I am a dedicated Master's student in Computer Science at Zhejiang University (ZJU), China PR 🇨🇳, with a deep passion for exploring new technologies. My primary focus is on developing innovative projects in the realms of cryptography and blockchain applications. I firmly believe in the potential of the Web3 world and am incredibly enthusiastic about contributing to its growth and advancement.
 - I am a co-founder of [MatchUs](https://github.com/MatchUs-ZJU), a WeChat mini-program designed for ZJU students to make friends online. This platform has successfully served 20,000+ per students. If you are a ZJU student, you must have heard of it.
 
 🌱 **I’m currently learning:**
 - Advanced techniques in Cryptography, which are pivotal for enhancing privacy and security in blockchain and Web3 technologies. This area of study is crucial for developing secure and efficient decentralized systems.
 - Specifically, I am focusing on Zero-Knowledge Proofs, exploring methods to accelerate their performance and practicality for real-world applications.
-
-## 🛠 Skills
-- **Languages:** Solidity, Golang, Java, Python, JavaScript, TypeScript, Rust (learning~)
-- **Frameworks:** React for FE, and many BE frameworks
-- **Databases:** MongoDB, SQL, ...
-- **Tools:** Docker, Git, Jenkins, ...
 
 ## 📫 How to Reach Me
 - **Email:** [hinsliu@zju.edu.cn](mailto:hinsliu@zju.edu.cn)
@@ -29,7 +23,7 @@
 
 ---
 
-If you share my interest in zero-knowledge proofs and other related fields, feel free to explore my repositories and get in touch with me! 
+If you share my interest in related fields, feel free to explore my repositories and get in touch with me! 
 I am always open to collaborating, sharing ideas, and learning from others in the community.
 
 
