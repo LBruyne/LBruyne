@@ -10,6 +10,7 @@
 
 ## 📫 How to Reach Me
 - **Email:** [hinsliu@zju.edu.cn](mailto:hinsliu@zju.edu.cn)
+- **TG:** @Hins_Liu (Might delayed to reply)
 
 ## ✨ Fun Fact
 - When I'm not immersed in the world of coding, you can always find me climbing mountains and hiking. I love capturing the beauty of nature through my lens, finding it both refreshing and inspiring.
