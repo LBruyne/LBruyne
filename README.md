@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 - I am a third-year Ph.D. student in Computer Science at Zhejiang University (ZJU), China 🇨🇳. My primary focus is on developing innovative projects in the fields of cryptography and blockchain applications. I firmly believe in the potential of cryptocurrency and distributed technologies, and I am deeply enthusiastic about contributing to their growth and advancement.
-- In addition, I am proficient in both full-stack development. As an example, I was a co-founder of [MatchUs](https://github.com/MatchUs-ZJU), a WeChat mini-program designed to help university students connect and make friends online. This platform has successfully served over 100,000 students. More information can be found on Redbook 📕.
+- In addition, I am proficient in full-stack development. As an example, I was a co-founder of [MatchUs](https://github.com/MatchUs-ZJU), a WeChat mini-program designed to help university students connect and make friends online. This platform has successfully served over 100,000 students. More information can be found on Redbook 📕.
 
 ## 📫 How to Reach Me
 - **Email:** [hinsliu@zju.edu.cn](mailto:hinsliu@zju.edu.cn)
