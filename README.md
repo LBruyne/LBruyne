@@ -1,16 +1,12 @@
 # Hi there, I'm Hins! 👋
 
 ## 🚀 About Me
-- I am a dedicated Master's student in Computer Science at Zhejiang University (ZJU), China PR 🇨🇳, with a deep passion for exploring new technologies. My primary focus is on developing innovative projects in the realms of cryptography and blockchain applications. I firmly believe in the potential of the Web3 world and am incredibly enthusiastic about contributing to its growth and advancement.
-- I am a co-founder of [MatchUs](https://github.com/MatchUs-ZJU), a WeChat mini-program designed for ZJU students to make friends online. This platform has successfully served 20,000+ per students. If you are a ZJU student, you must have heard of it.
-
-🌱 **I’m currently learning:**
-- Advanced techniques in Cryptography, which are pivotal for enhancing privacy and security in blockchain and Web3 technologies. This area of study is crucial for developing secure and efficient decentralized systems.
-- Specifically, I am focusing on Zero-Knowledge Proofs, exploring methods to accelerate their performance and practicality for real-world applications.
+- I am a third-year Ph.D. student in Computer Science at Zhejiang University (ZJU), China 🇨🇳. My primary focus is on developing innovative projects in the fields of cryptography and blockchain applications. I firmly believe in the potential of cryptocurrency and distributed technologies, and I am deeply enthusiastic about contributing to their growth and advancement.
+- In addition, I am proficient in both full-stack development. As an example, I was a co-founder of [MatchUs](https://github.com/MatchUs-ZJU), a WeChat mini-program designed to help university students connect and make friends online. This platform has successfully served over 100,000 students. More information can be found on Redbook 📕.
 
 ## 📫 How to Reach Me
 - **Email:** [hinsliu@zju.edu.cn](mailto:hinsliu@zju.edu.cn)
-- **TG:** @Hins_Liu (Might delayed to reply)
+- **TG:** @Hins_Liu
 
 ## ✨ Fun Fact
 - When I'm not immersed in the world of coding, you can always find me climbing mountains and hiking. I love capturing the beauty of nature through my lens, finding it both refreshing and inspiring.
